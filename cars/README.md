@@ -1,7 +1,7 @@
 # Cars
 
-- [428i](/428i/info.md)
-- [Beetle](/Beetle/info.md)
-- [Focus](/Focus/info.md)
-- [Mini](/Mini/info.md)
-- [Traverse](/Traverse/info.md)
+- [428i](cars/428i/info.md)
+- [Beetle](cars/Beetle/info.md)
+- [Focus](cars/Focus/info.md)
+- [Mini](cars/Mini/info.md)
+- [Traverse](cars/Traverse/info.md)
